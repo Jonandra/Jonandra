@@ -3,8 +3,6 @@
 <span align="center">
   <span>
     <h4 align="center">"<em>Si lo puedes imaginar, lo puedes programar</em>"
-      <span align="center">Alejandro Taboada Sanchez</span>
-    </h4>
 </span>
 
 <!-- ABOUT YOU -->
@@ -14,9 +12,9 @@
     <li>🔭 I’m currently studying at <strong>Complutense university of Madrid</strong></li>
     <li>🌱 I’m currently learning <strong>more uses and perks about C++</strong></li>
     <li>📫 How to reach me <strong>jonathanandradegordillo@gmail.com</strong></li>
-    <li>💼 You can check my portfolio [here](https://jonandra.github.io/JonathanAndradePortfolio/)</li>
+    <li>💼 You can check my portfolio <strong><a href="https://jonandra.github.io/JonathanAndradePortfolio/">here</a></strong></li>
   </ul>
-
+  
 <!-- CONNECTION -->
 <!--
 <hr>      
