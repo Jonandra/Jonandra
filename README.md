@@ -12,7 +12,7 @@
     <li>🔭 I’m currently studying at <strong>Complutense university of Madrid</strong></li>
     <li>🌱 I’m currently learning <strong>more uses and perks about C++</strong></li>
     <li>📫 How to reach me <strong>jonathanandradegordillo@gmail.com</strong></li>
-    <li>💼 You can check my portfolio <strong><a href="https://jonandra.github.io/JonathanAndradePortfolio/">here</a></strong></li>
+    <li>💼 You can check my portfolio <strong><a href="https://jonandra.github.io/JonathanAndradePortfolio/" target="_blank">here</a></strong></li>
   </ul>
   
 <!-- CONNECTION -->
